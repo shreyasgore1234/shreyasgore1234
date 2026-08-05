@@ -21,7 +21,7 @@
 - 🧩 Focused on **Backend Systems, APIs & AI Integration**  
 - ⚡ Passionate about real-world problem solving
 
----
+--
 
 ## ⚡ Current Focus
 
