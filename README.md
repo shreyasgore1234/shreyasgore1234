@@ -19,7 +19,7 @@
 - 🚀 Building **Personal Stock Market AI Advisor** 📈  
 - ☁️ Exploring **Google Cloud & Deployment**  
 - 🧩 Focused on **Backend Systems, APIs & AI Integration**  
-- ⚡ Passionate about real-world problem solvin
+- ⚡ Passionate about real-world problem solving
 
 ---
 
